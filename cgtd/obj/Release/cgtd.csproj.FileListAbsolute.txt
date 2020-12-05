@@ -1,0 +1,10 @@
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\bin\Release\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\bin\Release\cgtd.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\obj\Release\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\obj\Release\cgtd.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRISIA\cgtd\cgtd\bin\Release\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRISIA\cgtd\cgtd\bin\Release\cgtd.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRISIA\cgtd\cgtd\obj\Release\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRISIA\cgtd\cgtd\obj\Release\cgtd.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRISIA\cgtd\cgtd\obj\Release\cgtd.csprojResolveAssemblyReference.cache
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\obj\Release\cgtd.csprojResolveAssemblyReference.cache

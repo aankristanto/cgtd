@@ -1,0 +1,4 @@
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\bin\Debug\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\bin\Debug\cgtd.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\obj\Debug\cgtd.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgtd\cgtd\obj\Debug\cgtd.pdb
